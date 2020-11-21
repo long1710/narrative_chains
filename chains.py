@@ -185,7 +185,7 @@ class ProbabilityTable:
             for story in self.counter:
                 for entity in self.counter[story]:
                     v = self.counter[story][entity]
-                    if (verb, dependency) in v and (verb2, dependency2) in v:
+                    if [verb, dependency] in v and [verb2, dependency2] in v:
                         ctr +=1
             self.cache[query] = ctr
         return self.cache[query]
@@ -197,7 +197,7 @@ class ProbabilityTable:
             ctr = 0
             for story in self.counter:
                 for entity in self.counter[story]:
-                    if (verb, dependency) in self.counter[story][entity]:
+                    if [verb, dependency] in self.counter[story][entity]:
                         ctr += 1
             self.cache[query] = ctr
         return self.cache[query]

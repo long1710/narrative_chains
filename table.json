@@ -1,4 +1,64 @@
 {
+  "8279ee35-bc41-4cac-8020-063dc9d63ae0": {
+    "0": [
+      [
+        "have",
+        "nsubj"
+      ],
+      [
+        "tell",
+        "nsubjpass"
+      ],
+      [
+        "want",
+        "nsubj"
+      ],
+      [
+        "assure",
+        "dobj"
+      ]
+    ],
+    "1": [
+      [
+        "assure",
+        "nsubj"
+      ]
+    ]
+  },
+  "659a8eac-f2e5-415a-a28d-7a0bfae3064d": {
+    "0": [
+      [
+        "work",
+        "nsubj"
+      ],
+      [
+        "work",
+        "nsubj"
+      ],
+      [
+        "want",
+        "nsubj"
+      ],
+      [
+        "begin",
+        "nsubj"
+      ],
+      [
+        "break",
+        "nsubj"
+      ]
+    ],
+    "1": [
+      [
+        "hammer",
+        "dobj"
+      ],
+      [
+        "break",
+        "dobj"
+      ]
+    ]
+  },
   "4c317f76-ca42-4024-a4c2-12ec911cf89b": {
     "-1": [
       [
@@ -43,6 +103,1638 @@
     "0": [
       [
         "sign",
+        "nsubj"
+      ]
+    ]
+  },
+  "0236065d-96a5-4b69-a7b4-c432fa2f4ba1": {
+    "0": [
+      [
+        "invite",
+        "nsubjpass"
+      ],
+      [
+        "decide",
+        "nsubj"
+      ],
+      [
+        "win",
+        "nsubj"
+      ],
+      [
+        "realize",
+        "nsubj"
+      ]
+    ]
+  },
+  "4de38ecd-39a3-4c7c-988e-93e6f8ec7705": {
+    "0": [
+      [
+        "feel",
+        "nsubj"
+      ]
+    ],
+    "1": [
+      [
+        "ask",
+        "nsubj"
+      ],
+      [
+        "ask",
+        "dobj"
+      ],
+      [
+        "give",
+        "nsubj"
+      ],
+      [
+        "choose",
+        "nsubj"
+      ]
+    ],
+    "2": [
+      [
+        "give",
+        "dative"
+      ]
+    ]
+  },
+  "5ee0a774-4865-48f4-9ae5-8bbcca735ec0": {
+    "0": [
+      [
+        "own",
+        "nsubj"
+      ],
+      [
+        "hire",
+        "nsubj"
+      ]
+    ],
+    "1": [
+      [
+        "hire",
+        "dobj"
+      ],
+      [
+        "clean",
+        "nsubj"
+      ]
+    ]
+  },
+  "5c1f0d44-b81f-4763-a1a5-557ea9a2b299": {
+    "0": [
+      [
+        "love",
+        "nsubj"
+      ],
+      [
+        "go",
+        "nsubj"
+      ]
+    ],
+    "1": [
+      [
+        "pass",
+        "nsubj"
+      ]
+    ]
+  },
+  "e137c319-6065-42dc-9adc-8f2d9fb9a54a": {
+    "0": [
+      [
+        "want",
+        "nsubj"
+      ],
+      [
+        "decide",
+        "nsubj"
+      ],
+      [
+        "find",
+        "nsubj"
+      ]
+    ]
+  },
+  "2c9a7ab1-ee34-41d7-9e27-19aade397057": {
+    "1": [
+      [
+        "call",
+        "nsubj"
+      ],
+      [
+        "ask",
+        "nsubj"
+      ]
+    ],
+    "0": [
+      [
+        "ask",
+        "dobj"
+      ],
+      [
+        "answer",
+        "nsubj"
+      ],
+      [
+        "walk",
+        "nsubj"
+      ]
+    ]
+  },
+  "97f2852d-c5c3-43e4-a8db-3f088dbf26ab": {
+    "0": [
+      [
+        "head",
+        "nsubj"
+      ],
+      [
+        "overlook",
+        "nsubj"
+      ],
+      [
+        "tell",
+        "dobj"
+      ],
+      [
+        "need",
+        "nsubj"
+      ],
+      [
+        "object",
+        "nsubj"
+      ],
+      [
+        "remind",
+        "dobj"
+      ]
+    ],
+    "1": [
+      [
+        "head",
+        "dobj"
+      ],
+      [
+        "complete",
+        "nsubjpass"
+      ]
+    ],
+    "2": [
+      [
+        "talk",
+        "nsubj"
+      ],
+      [
+        "tell",
+        "nsubj"
+      ],
+      [
+        "remind",
+        "nsubj"
+      ]
+    ]
+  },
+  "1d6cc29e-f9db-4837-81d6-4d2877aaf5c5": {
+    "0": [
+      [
+        "see",
+        "nsubj"
+      ],
+      [
+        "decide",
+        "nsubj"
+      ],
+      [
+        "try",
+        "nsubj"
+      ],
+      [
+        "arrive",
+        "nsubj"
+      ],
+      [
+        "notice",
+        "nsubj"
+      ],
+      [
+        "know",
+        "nsubj"
+      ],
+      [
+        "return",
+        "nsubj"
+      ]
+    ],
+    "1": [
+      [
+        "try",
+        "dobj"
+      ],
+      [
+        "make",
+        "nsubj"
+      ]
+    ]
+  },
+  "d52058c7-a136-4189-ba68-8c2905e59456": {
+    "0": [
+      [
+        "receive",
+        "nsubj"
+      ]
+    ],
+    "1": [
+      [
+        "email",
+        "nsubj"
+      ]
+    ],
+    "2": [
+      [
+        "email",
+        "dobj"
+      ],
+      [
+        "ignore",
+        "dobj"
+      ]
+    ]
+  },
+  "ea6b96e8-2458-4e9f-a9f0-e837d87b4653": {
+    "-1": [
+      [
+        "ask",
+        "nsubj"
+      ]
+    ],
+    "0": [
+      [
+        "look",
+        "nsubj"
+      ],
+      [
+        "find",
+        "nsubj"
+      ],
+      [
+        "wake",
+        "nsubj"
+      ]
+    ]
+  },
+  "83f07f38-2a99-4214-86bd-3e92d62e7294": {
+    "0": [
+      [
+        "receive",
+        "nsubj"
+      ],
+      [
+        "arrive",
+        "nsubj"
+      ],
+      [
+        "find",
+        "nsubj"
+      ],
+      [
+        "take",
+        "dobj"
+      ],
+      [
+        "feel",
+        "nsubj"
+      ]
+    ],
+    "1": [
+      [
+        "find",
+        "dobj"
+      ],
+      [
+        "find",
+        "dobj"
+      ]
+    ],
+    "2": [
+      [
+        "take",
+        "nsubj"
+      ]
+    ]
+  },
+  "ee35aa06-05ac-4ed4-9c30-381d9bb7bdd2": {
+    "0": [
+      [
+        "watch",
+        "nsubj"
+      ],
+      [
+        "sign",
+        "nsubj"
+      ]
+    ],
+    "1": [
+      [
+        "eat",
+        "nsubj"
+      ],
+      [
+        "complain",
+        "nsubj"
+      ],
+      [
+        "grimace",
+        "nsubj"
+      ]
+    ]
+  },
+  "6dff7f81-1082-448d-a413-963612c6d27a": {
+    "0": [
+      [
+        "decide",
+        "nsubj"
+      ],
+      [
+        "keep",
+        "nsubj"
+      ]
+    ]
+  },
+  "5267136a-91bf-44c8-919b-95f4c1f3a2a4": {
+    "0": [
+      [
+        "get",
+        "nsubj"
+      ],
+      [
+        "figure",
+        "nsubj"
+      ],
+      [
+        "think",
+        "nsubj"
+      ],
+      [
+        "keep",
+        "nsubj"
+      ]
+    ],
+    "1": [
+      [
+        "stack",
+        "npadvmod"
+      ],
+      [
+        "keep",
+        "dobj"
+      ]
+    ]
+  },
+  "64323a3c-057a-4054-93d7-184d24eeec61": {
+    "0": [
+      [
+        "want",
+        "nsubj"
+      ]
+    ]
+  },
+  "04eba092-1d5c-4bae-8eb0-aead76b3de06": {
+    "0": [
+      [
+        "hurt",
+        "nsubj"
+      ],
+      [
+        "feel",
+        "nsubj"
+      ]
+    ]
+  },
+  "c0dc52af-cb74-407e-8baa-0e7a133cb201": {
+    "-1": [
+      [
+        "like",
+        "nsubj"
+      ],
+      [
+        "look",
+        "nsubj"
+      ],
+      [
+        "look",
+        "nsubj"
+      ],
+      [
+        "leave",
+        "nsubj"
+      ],
+      [
+        "crash",
+        "nsubj"
+      ],
+      [
+        "leave",
+        "nsubj"
+      ]
+    ],
+    "0": [
+      [
+        "leave",
+        "dobj"
+      ]
+    ]
+  },
+  "035e5bcd-e1bc-484e-8fe8-7aa83d9b2c3a": {
+    "-1": [
+      [
+        "go",
+        "nsubj"
+      ],
+      [
+        "decide",
+        "nsubj"
+      ],
+      [
+        "imagine",
+        "nsubj"
+      ]
+    ],
+    "0": [
+      [
+        "write",
+        "nsubj"
+      ]
+    ],
+    "1": [
+      [
+        "write",
+        "dobj"
+      ]
+    ]
+  },
+  "6f9ec66e-1aa5-4a43-96e9-87b90ce4dad2": {
+    "0": [
+      [
+        "decide",
+        "nsubj"
+      ],
+      [
+        "pull",
+        "nsubj"
+      ],
+      [
+        "unpack",
+        "nsubj"
+      ],
+      [
+        "clean",
+        "nsubj"
+      ]
+    ],
+    "1": [
+      [
+        "pull",
+        "dobj"
+      ],
+      [
+        "unpack",
+        "dobj"
+      ]
+    ]
+  },
+  "4000fc49-5e99-4d28-9c7b-bb6db30513c6": {
+    "0": [
+      [
+        "love",
+        "nsubj"
+      ],
+      [
+        "take",
+        "nsubj"
+      ]
+    ],
+    "1": [
+      [
+        "get",
+        "nsubj"
+      ]
+    ]
+  },
+  "52e0e0d2-092c-436c-85cf-e53a9b2971b4": {
+    "-1": [
+      [
+        "take",
+        "nsubj"
+      ]
+    ],
+    "0": [
+      [
+        "take",
+        "dobj"
+      ],
+      [
+        "wave",
+        "nsubj"
+      ],
+      [
+        "use",
+        "nsubj"
+      ],
+      [
+        "accuse",
+        "dobj"
+      ]
+    ],
+    "1": [
+      [
+        "ask",
+        "nsubj"
+      ],
+      [
+        "misunderstand",
+        "nsubj"
+      ]
+    ]
+  },
+  "b8f6e508-045a-41cd-89aa-44c3551a5975": {
+    "0": [
+      [
+        "lose",
+        "nsubj"
+      ],
+      [
+        "go",
+        "nsubj"
+      ],
+      [
+        "bet",
+        "nsubj"
+      ],
+      [
+        "lose",
+        "nsubj"
+      ]
+    ]
+  },
+  "1d975cd9-7d93-49b0-99f0-06722f096058": {
+    "0": [
+      [
+        "decide",
+        "nsubj"
+      ],
+      [
+        "try",
+        "nsubj"
+      ]
+    ]
+  },
+  "cd5748af-e3b1-44e2-bbb2-7af724385638": {
+    "0": [
+      [
+        "lose",
+        "nsubj"
+      ],
+      [
+        "look",
+        "nsubj"
+      ],
+      [
+        "put",
+        "nsubj"
+      ],
+      [
+        "give",
+        "nsubj"
+      ]
+    ]
+  },
+  "2874d3ab-2fe8-407f-bab4-9f3ca27cf891": {
+    "0": [
+      [
+        "hum",
+        "nsubj"
+      ],
+      [
+        "make",
+        "nsubj"
+      ]
+    ],
+    "1": [
+      [
+        "scare",
+        "dobj"
+      ],
+      [
+        "knock",
+        "nsubj"
+      ]
+    ]
+  },
+  "8f2d3736-953a-4897-9bbe-afaeeb0ed6e5": {
+    "0": [
+      [
+        "buy",
+        "nsubj"
+      ],
+      [
+        "get",
+        "nsubj"
+      ],
+      [
+        "decide",
+        "nsubj"
+      ],
+      [
+        "pay",
+        "nsubj"
+      ],
+      [
+        "see",
+        "dobj"
+      ]
+    ]
+  },
+  "0dcd38cd-39ed-4b10-898e-ee078a987d68": {
+    "0": [
+      [
+        "afford",
+        "nsubj"
+      ],
+      [
+        "decide",
+        "nsubj"
+      ],
+      [
+        "think",
+        "nsubj"
+      ]
+    ],
+    "1": [
+      [
+        "love",
+        "dobj"
+      ]
+    ]
+  },
+  "6b761d8f-39d3-49fa-89dc-204d13ce50de": {
+    "0": [
+      [
+        "skip",
+        "nsubj"
+      ],
+      [
+        "go",
+        "nsubj"
+      ],
+      [
+        "decide",
+        "nsubj"
+      ],
+      [
+        "listen",
+        "nsubj"
+      ],
+      [
+        "eat",
+        "nsubj"
+      ]
+    ],
+    "1": [
+      [
+        "skip",
+        "npadvmod"
+      ],
+      [
+        "hang",
+        "npadvmod"
+      ],
+      [
+        "talk",
+        "npadvmod"
+      ]
+    ],
+    "2": [
+      [
+        "make",
+        "dobj"
+      ],
+      [
+        "eat",
+        "dobj"
+      ]
+    ]
+  },
+  "f45c88d7-d618-4fd0-bfaf-a88dec672f18": {
+    "0": [
+      [
+        "want",
+        "nsubj"
+      ],
+      [
+        "put",
+        "nsubj"
+      ],
+      [
+        "run",
+        "nsubj"
+      ],
+      [
+        "become",
+        "nsubj"
+      ]
+    ],
+    "1": [
+      [
+        "strike",
+        "dobj"
+      ],
+      [
+        "fall",
+        "nsubj"
+      ]
+    ]
+  },
+  "16b065e7-0377-44d4-9a31-7be94f118375": {
+    "-1": [
+      [
+        "ask",
+        "nsubj"
+      ],
+      [
+        "hope",
+        "nsubj"
+      ]
+    ],
+    "0": [
+      [
+        "ask",
+        "dobj"
+      ],
+      [
+        "talk",
+        "nsubj"
+      ]
+    ],
+    "2": [
+      [
+        "decide",
+        "nsubj"
+      ]
+    ],
+    "1": [
+      [
+        "could",
+        "nsubj"
+      ],
+      [
+        "go",
+        "nsubj"
+      ],
+      [
+        "get",
+        "nsubj"
+      ]
+    ]
+  },
+  "1a477be7-42e8-4647-8f16-a914397fdd6a": {
+    "0": [
+      [
+        "move",
+        "nsubj"
+      ],
+      [
+        "yell",
+        "nsubj"
+      ],
+      [
+        "help",
+        "dobj"
+      ],
+      [
+        "help",
+        "dobj"
+      ],
+      [
+        "drive",
+        "dobj"
+      ]
+    ],
+    "2": [
+      [
+        "come",
+        "nsubj"
+      ],
+      [
+        "help",
+        "nsubj"
+      ]
+    ]
+  },
+  "55242faf-03b7-45d6-9427-224e6ae50aa1": {
+    "0": [
+      [
+        "keep",
+        "nsubj"
+      ],
+      [
+        "rid",
+        "nsubj"
+      ],
+      [
+        "feel",
+        "nsubj"
+      ]
+    ]
+  },
+  "06b31e6a-fedc-4a29-b9a6-963ae89aa5b4": {
+    "0": [
+      [
+        "bake",
+        "nsubj"
+      ],
+      [
+        "share",
+        "nsubj"
+      ],
+      [
+        "remember",
+        "nsubj"
+      ]
+    ],
+    "1": [
+      [
+        "ask",
+        "nsubj"
+      ]
+    ],
+    "2": [
+      [
+        "remember",
+        "dobj"
+      ]
+    ]
+  },
+  "eae64a11-64ce-4a29-a998-d0b4b961a3ea": {
+    "0": [
+      [
+        "feel",
+        "nsubj"
+      ],
+      [
+        "eat",
+        "nsubj"
+      ]
+    ],
+    "1": [
+      [
+        "decide",
+        "nsubj"
+      ],
+      [
+        "drink",
+        "nsubj"
+      ],
+      [
+        "feel",
+        "nsubj"
+      ]
+    ]
+  },
+  "6cb171ed-99f3-46f1-8d98-5dad776d9555": {
+    "0": [
+      [
+        "put",
+        "nsubj"
+      ],
+      [
+        "marry",
+        "dobj"
+      ],
+      [
+        "tell",
+        "nsubj"
+      ],
+      [
+        "want",
+        "nsubj"
+      ],
+      [
+        "graduate",
+        "nsubj"
+      ],
+      [
+        "feel",
+        "nsubj"
+      ],
+      [
+        "want",
+        "nsubj"
+      ],
+      [
+        "realize",
+        "nsubj"
+      ]
+    ],
+    "1": [
+      [
+        "ask",
+        "dobj"
+      ],
+      [
+        "tell",
+        "dobj"
+      ],
+      [
+        "buy",
+        "dative"
+      ]
+    ],
+    "2": [
+      [
+        "graduate",
+        "dobj"
+      ]
+    ]
+  },
+  "915a96d8-dd2c-405c-aa10-c525173ce480": {
+    "0": [
+      [
+        "start",
+        "dobj"
+      ]
+    ],
+    "1": [
+      [
+        "enjoy",
+        "nsubj"
+      ],
+      [
+        "read",
+        "nsubj"
+      ]
+    ]
+  },
+  "aca19747-ebd4-4ce7-9521-6f121af20c8a": {
+    "0": [
+      [
+        "taste",
+        "nsubj"
+      ]
+    ]
+  },
+  "c0a0d459-c15c-402f-8f4b-57f17a4da0d2": {
+    "0": [
+      [
+        "injure",
+        "nsubjpass"
+      ],
+      [
+        "return",
+        "nsubj"
+      ],
+      [
+        "pawn",
+        "nsubj"
+      ]
+    ],
+    "1": [
+      [
+        "pawn",
+        "dobj"
+      ]
+    ]
+  },
+  "cdd0d35b-e6aa-4e95-a7a3-cce6d7cb597f": {
+    "0": [
+      [
+        "enjoy",
+        "nsubj"
+      ],
+      [
+        "get",
+        "nsubj"
+      ],
+      [
+        "choke",
+        "nsubj"
+      ],
+      [
+        "save",
+        "dobj"
+      ]
+    ]
+  },
+  "fef1701b-037b-4a2d-b154-579eda0fb986": {
+    "0": [
+      [
+        "think",
+        "nsubj"
+      ],
+      [
+        "decide",
+        "nsubj"
+      ],
+      [
+        "check",
+        "nsubj"
+      ],
+      [
+        "think",
+        "nsubj"
+      ],
+      [
+        "decide",
+        "nsubj"
+      ]
+    ]
+  },
+  "b12bd7ce-37a9-4843-bb9c-ef943e687997": {
+    "0": [
+      [
+        "move",
+        "nsubj"
+      ],
+      [
+        "seem",
+        "nsubj"
+      ],
+      [
+        "get",
+        "nsubj"
+      ]
+    ],
+    "1": [
+      [
+        "become",
+        "nsubj"
+      ]
+    ]
+  },
+  "975b5797-e702-427a-986f-0046b4d115da": {
+    "-1": [
+      [
+        "buy",
+        "nsubj"
+      ],
+      [
+        "love",
+        "nsubj"
+      ],
+      [
+        "drink",
+        "nsubj"
+      ]
+    ],
+    "1": [
+      [
+        "buy",
+        "dobj"
+      ],
+      [
+        "drink",
+        "dobj"
+      ]
+    ]
+  },
+  "99dada60-cf32-4351-965f-3fa0b89e7857": {
+    "-1": [
+      [
+        "go",
+        "nsubj"
+      ],
+      [
+        "set",
+        "nsubj"
+      ]
+    ],
+    "0": [
+      [
+        "paint",
+        "dobj"
+      ],
+      [
+        "start",
+        "nsubj"
+      ]
+    ]
+  },
+  "96c6410f-27a6-4c22-a03d-7fd536e3e877": {
+    "0": [
+      [
+        "move",
+        "nsubj"
+      ],
+      [
+        "buy",
+        "nsubj"
+      ],
+      [
+        "try",
+        "nsubj"
+      ],
+      [
+        "drop",
+        "nsubj"
+      ]
+    ],
+    "1": [
+      [
+        "drop",
+        "dobj"
+      ],
+      [
+        "move",
+        "dobj"
+      ]
+    ]
+  },
+  "96c812ae-1652-4167-bc0d-cd673498f12d": {
+    "0": [
+      [
+        "start",
+        "nsubj"
+      ],
+      [
+        "want",
+        "nsubj"
+      ],
+      [
+        "cherish",
+        "nsubj"
+      ]
+    ]
+  },
+  "cc0841bf-5d11-4c11-b2f5-f1534e3bc5e3": {
+    "-1": [
+      [
+        "try",
+        "nsubj"
+      ],
+      [
+        "resist",
+        "nsubj"
+      ],
+      [
+        "eat",
+        "nsubj"
+      ],
+      [
+        "feel",
+        "nsubj"
+      ]
+    ]
+  },
+  "48471f28-6dbf-4979-8507-299d8eab5b45": {
+    "0": [
+      [
+        "want",
+        "nsubj"
+      ]
+    ],
+    "1": [
+      [
+        "see",
+        "dobj"
+      ]
+    ],
+    "3": [
+      [
+        "check",
+        "nsubj"
+      ]
+    ]
+  },
+  "900bbb9d-8b8c-4304-b6ba-b66f7dfd955d": {
+    "0": [
+      [
+        "want",
+        "nsubj"
+      ],
+      [
+        "remember",
+        "nsubj"
+      ],
+      [
+        "realize",
+        "nsubj"
+      ],
+      [
+        "go",
+        "nsubj"
+      ],
+      [
+        "do",
+        "nsubjpass"
+      ]
+    ],
+    "1": [
+      [
+        "alter",
+        "dobj"
+      ]
+    ]
+  },
+  "2a7b6748-d0a5-47f1-9eaf-e349ab738af5": {
+    "0": [
+      [
+        "drive",
+        "nsubj"
+      ],
+      [
+        "swerve",
+        "nsubj"
+      ],
+      [
+        "hit",
+        "nsubj"
+      ],
+      [
+        "stop",
+        "nsubj"
+      ]
+    ],
+    "1": [
+      [
+        "cross",
+        "nsubj"
+      ],
+      [
+        "hit",
+        "dobj"
+      ],
+      [
+        "howl",
+        "nsubj"
+      ],
+      [
+        "hurt",
+        "nsubjpass"
+      ]
+    ]
+  },
+  "ef201f0b-3102-42d0-b1fe-ea46a8d7ed14": {
+    "-1": [
+      [
+        "drive",
+        "nsubj"
+      ],
+      [
+        "call",
+        "nsubj"
+      ]
+    ],
+    "0": [
+      [
+        "call",
+        "dobj"
+      ],
+      [
+        "arrive",
+        "nsubj"
+      ]
+    ]
+  },
+  "61da8ecb-e0a1-44fb-963d-0e059a127f4b": {
+    "0": [
+      [
+        "want",
+        "nsubj"
+      ],
+      [
+        "learn",
+        "nsubj"
+      ],
+      [
+        "progress",
+        "nsubj"
+      ],
+      [
+        "open",
+        "nsubj"
+      ],
+      [
+        "become",
+        "nsubj"
+      ],
+      [
+        "care",
+        "nsubj"
+      ]
+    ]
+  },
+  "ec37e0da-e775-4054-bff6-e595e5459571": {
+    "0": [
+      [
+        "look",
+        "nsubj"
+      ],
+      [
+        "plan",
+        "nsubj"
+      ],
+      [
+        "agree",
+        "nsubj"
+      ]
+    ],
+    "1": [
+      [
+        "relax",
+        "npadvmod"
+      ]
+    ]
+  },
+  "2fa51508-0196-4fe5-bdba-fa8678a881f0": {
+    "0": [
+      [
+        "eat",
+        "nsubj"
+      ],
+      [
+        "feel",
+        "nsubj"
+      ],
+      [
+        "have",
+        "nsubj"
+      ]
+    ]
+  },
+  "489642a3-f61d-4adf-91c9-0367255ced45": {
+    "0": [
+      [
+        "go",
+        "nsubj"
+      ],
+      [
+        "decide",
+        "nsubj"
+      ]
+    ]
+  },
+  "dfdeb308-d94a-43e8-8ac4-8c3b28d91f73": {
+    "0": [
+      [
+        "ride",
+        "nsubj"
+      ],
+      [
+        "purchase",
+        "nsubj"
+      ],
+      [
+        "take",
+        "nsubj"
+      ]
+    ]
+  },
+  "3ace6668-d4ce-4e5d-8a0e-6e8695dc4100": {
+    "0": [
+      [
+        "invite",
+        "nsubjpass"
+      ],
+      [
+        "do",
+        "nsubj"
+      ],
+      [
+        "decide",
+        "nsubj"
+      ],
+      [
+        "fall",
+        "nsubj"
+      ],
+      [
+        "decide",
+        "nsubj"
+      ]
+    ]
+  },
+  "fe6d7704-2bfc-4f60-aecd-cf96154a544e": {
+    "0": [
+      [
+        "work",
+        "nsubj"
+      ],
+      [
+        "feel",
+        "nsubj"
+      ],
+      [
+        "deserve",
+        "nsubj"
+      ],
+      [
+        "bring",
+        "nsubj"
+      ]
+    ],
+    "2": [
+      [
+        "deserve",
+        "dobj"
+      ],
+      [
+        "bring",
+        "dobj"
+      ]
+    ],
+    "1": [
+      [
+        "disagree",
+        "nsubj"
+      ]
+    ]
+  },
+  "62cd61f1-075e-41ea-a0e8-fb54b301dd02": {
+    "0": [
+      [
+        "decide",
+        "nsubj"
+      ],
+      [
+        "take",
+        "nsubj"
+      ],
+      [
+        "bite",
+        "nsubj"
+      ],
+      [
+        "find",
+        "nsubj"
+      ]
+    ],
+    "1": [
+      [
+        "buy",
+        "dobj"
+      ],
+      [
+        "take",
+        "dobj"
+      ],
+      [
+        "wash",
+        "dobj"
+      ],
+      [
+        "wash",
+        "dobj"
+      ]
+    ]
+  },
+  "0392532d-4d2b-477d-b717-5f4ebbe654a1": {
+    "0": [
+      [
+        "break",
+        "nsubj"
+      ],
+      [
+        "wait",
+        "nsubj"
+      ],
+      [
+        "get",
+        "nsubj"
+      ],
+      [
+        "get",
+        "nsubj"
+      ]
+    ],
+    "1": [
+      [
+        "break",
+        "dobj"
+      ],
+      [
+        "get",
+        "dobj"
+      ]
+    ],
+    "3": [
+      [
+        "sit",
+        "nsubj"
+      ]
+    ],
+    "2": [
+      [
+        "find",
+        "dobj"
+      ]
+    ]
+  },
+  "5db2fea7-8fd5-4ba3-9521-0ce596d6f17c": {
+    "0": [
+      [
+        "buy",
+        "nsubj"
+      ],
+      [
+        "ask",
+        "dobj"
+      ],
+      [
+        "tell",
+        "nsubj"
+      ],
+      [
+        "laugh",
+        "nsubj"
+      ]
+    ],
+    "-1": [
+      [
+        "ask",
+        "nsubj"
+      ],
+      [
+        "try",
+        "nsubj"
+      ],
+      [
+        "tell",
+        "dobj"
+      ],
+      [
+        "like",
+        "nsubj"
+      ],
+      [
+        "try",
+        "nsubj"
+      ],
+      [
+        "push",
+        "dobj"
+      ]
+    ],
+    "1": [
+      [
+        "try",
+        "dobj"
+      ],
+      [
+        "like",
+        "dobj"
+      ],
+      [
+        "try",
+        "dobj"
+      ]
+    ]
+  },
+  "31edb7d9-d2e6-4107-bd59-21a6e708db13": {
+    "0": [
+      [
+        "start",
+        "nsubj"
+      ],
+      [
+        "teach",
+        "dative"
+      ],
+      [
+        "go",
+        "nsubj"
+      ]
+    ],
+    "1": [
+      [
+        "teach",
+        "nsubj"
+      ],
+      [
+        "know",
+        "nsubj"
+      ]
+    ]
+  },
+  "86a24d4a-4702-4e34-a134-89f04cae0cc3": {
+    "-1": [
+      [
+        "wake",
+        "nsubj"
+      ],
+      [
+        "make",
+        "nsubj"
+      ]
+    ],
+    "0": [
+      [
+        "sit",
+        "nsubj"
+      ],
+      [
+        "start",
+        "nsubj"
+      ],
+      [
+        "want",
         "nsubj"
       ]
     ]
@@ -93,40 +1785,316 @@
       ]
     ]
   },
-  "309a067b-a3f9-40f1-9271-dc2f39e7b130": {
+  "865ee758-d811-4696-a3b8-2adbb478cafe": {
     "0": [
       [
-        "decide",
+        "move",
         "nsubj"
       ],
       [
-        "decide",
+        "call",
         "nsubj"
       ],
       [
-        "ask",
-        "nsubj"
+        "offer",
+        "dative"
       ],
       [
-        "hook",
-        "dobj"
+        "enjoy",
+        "nsubj"
       ]
     ],
     "1": [
       [
-        "ask",
+        "call",
         "dobj"
       ],
       [
-        "hook",
+        "arrive",
+        "nsubj"
+      ],
+      [
+        "apologize",
         "nsubj"
       ]
     ]
   },
-  "c5b396c1-e8b5-48b8-a713-b3e00a5cfa28": {
+  "4dde0448-d363-4c3b-891d-7b15799aabba": {
+    "0": [
+      [
+        "need",
+        "nsubj"
+      ],
+      [
+        "decide",
+        "nsubj"
+      ],
+      [
+        "put",
+        "nsubj"
+      ],
+      [
+        "put",
+        "dobj"
+      ]
+    ]
+  },
+  "4e3f0cb6-6a33-4b6f-9465-97e18cac7588": {
+    "0": [
+      [
+        "want",
+        "nsubj"
+      ],
+      [
+        "make",
+        "nsubj"
+      ],
+      [
+        "put",
+        "nsubj"
+      ],
+      [
+        "lose",
+        "nsubj"
+      ]
+    ]
+  },
+  "e0eb8a2c-dd0b-48a3-b061-bffa4165b8db": {
+    "0": [
+      [
+        "drop",
+        "nsubj"
+      ],
+      [
+        "visit",
+        "nsubj"
+      ],
+      [
+        "leave",
+        "nsubj"
+      ]
+    ],
+    "1": [
+      [
+        "visit",
+        "dobj"
+      ],
+      [
+        "talk",
+        "nsubj"
+      ],
+      [
+        "leave",
+        "dative"
+      ]
+    ]
+  },
+  "ec68e1b8-c4e7-4729-949e-ef1471aab33b": {
+    "0": [
+      [
+        "want",
+        "nsubj"
+      ],
+      [
+        "own",
+        "nsubj"
+      ],
+      [
+        "call",
+        "nsubj"
+      ],
+      [
+        "drive",
+        "dobj"
+      ]
+    ],
+    "2": [
+      [
+        "call",
+        "dobj"
+      ],
+      [
+        "agree",
+        "nsubj"
+      ]
+    ]
+  },
+  "46c9c3e5-3422-4097-9cb9-6511c8689880": {
+    "0": [
+      [
+        "want",
+        "nsubj"
+      ],
+      [
+        "ground",
+        "nsubjpass"
+      ],
+      [
+        "wait",
+        "nsubj"
+      ],
+      [
+        "make",
+        "nsubj"
+      ],
+      [
+        "ground",
+        "nsubjpass"
+      ]
+    ]
+  },
+  "693d4358-b72e-49db-9a14-7effb0db7056": {
+    "0": [
+      [
+        "try",
+        "nsubj"
+      ],
+      [
+        "notice",
+        "nsubj"
+      ],
+      [
+        "buy",
+        "nsubj"
+      ],
+      [
+        "talk",
+        "nsubj"
+      ]
+    ],
+    "1": [
+      [
+        "notice",
+        "dobj"
+      ],
+      [
+        "walk",
+        "nsubj"
+      ],
+      [
+        "hate",
+        "nsubj"
+      ]
+    ]
+  },
+  "176a3b2e-b645-4ccd-b39f-e69da2c46283": {
+    "0": [
+      [
+        "walk",
+        "nsubj"
+      ],
+      [
+        "walk",
+        "dobj"
+      ],
+      [
+        "become",
+        "nsubj"
+      ]
+    ]
+  },
+  "092a1ddf-9a68-4b2e-a842-584c02c9a988": {
     "0": [
       [
         "love",
+        "nsubj"
+      ],
+      [
+        "take",
+        "dobj"
+      ],
+      [
+        "love",
+        "nsubj"
+      ],
+      [
+        "say",
+        "nsubj"
+      ],
+      [
+        "want",
+        "nsubj"
+      ],
+      [
+        "get",
+        "nsubj"
+      ]
+    ]
+  },
+  "6a04d10e-129c-4a21-ad66-a1e875e44f4a": {
+    "1": [
+      [
+        "come",
+        "nsubj"
+      ],
+      [
+        "watch",
+        "dobj"
+      ],
+      [
+        "send",
+        "dobj"
+      ]
+    ],
+    "0": [
+      [
+        "invite",
+        "nsubj"
+      ]
+    ],
+    "2": [
+      [
+        "watch",
+        "nsubj"
+      ],
+      [
+        "take",
+        "nsubj"
+      ]
+    ],
+    "-1": [
+      [
+        "love",
+        "nsubj"
+      ]
+    ]
+  },
+  "a3221939-1674-4102-9e03-a2173e309dfe": {
+    "0": [
+      [
+        "love",
+        "nsubj"
+      ],
+      [
+        "get",
+        "nsubj"
+      ],
+      [
+        "decide",
+        "nsubj"
+      ],
+      [
+        "get",
+        "nsubj"
+      ],
+      [
+        "play",
+        "nsubj"
+      ]
+    ]
+  },
+  "3d7c6b76-7718-4dab-ae69-0ab508fc789a": {
+    "0": [
+      [
+        "go",
+        "nsubj"
+      ],
+      [
+        "try",
+        "nsubj"
+      ],
+      [
+        "tumble",
         "nsubj"
       ],
       [
@@ -135,8 +2103,274 @@
       ]
     ]
   },
-  "2fa51508-0196-4fe5-bdba-fa8678a881f0": {
+  "4efb8536-1083-436b-8feb-b5c5268e1829": {
     "0": [
+      [
+        "love",
+        "nsubj"
+      ],
+      [
+        "show",
+        "nsubj"
+      ],
+      [
+        "ask",
+        "nsubj"
+      ]
+    ],
+    "1": [
+      [
+        "love",
+        "dobj"
+      ],
+      [
+        "show",
+        "dobj"
+      ],
+      [
+        "like",
+        "dobj"
+      ]
+    ],
+    "2": [
+      [
+        "watch",
+        "nsubj"
+      ],
+      [
+        "like",
+        "nsubj"
+      ]
+    ]
+  },
+  "892ca461-c12c-4f4a-b164-35cd94c8158f": {
+    "-1": [
+      [
+        "stick",
+        "nsubjpass"
+      ]
+    ],
+    "1": [
+      [
+        "stab",
+        "nsubj"
+      ]
+    ]
+  },
+  "c82b555b-307d-4c66-872a-92ce9887c0f1": {
+    "0": [
+      [
+        "work",
+        "nsubj"
+      ],
+      [
+        "run",
+        "nsubj"
+      ],
+      [
+        "practice",
+        "nsubj"
+      ],
+      [
+        "give",
+        "nsubj"
+      ],
+      [
+        "elect",
+        "nsubjpass"
+      ]
+    ],
+    "1": [
+      [
+        "practice",
+        "dobj"
+      ],
+      [
+        "give",
+        "dobj"
+      ]
+    ]
+  },
+  "0138cbcf-e730-439b-a2a5-f244b22f946b": {
+    "1": [
+      [
+        "want",
+        "nsubj"
+      ]
+    ],
+    "0": [
+      [
+        "find",
+        "nsubj"
+      ]
+    ]
+  },
+  "f8eec133-e176-4345-a8a2-ee47a53b0b7b": {
+    "-1": [
+      [
+        "walk",
+        "nsubj"
+      ],
+      [
+        "tell",
+        "dobj"
+      ],
+      [
+        "ask",
+        "nsubj"
+      ]
+    ],
+    "0": [
+      [
+        "tell",
+        "nsubj"
+      ],
+      [
+        "go",
+        "nsubj"
+      ],
+      [
+        "drink",
+        "nsubj"
+      ]
+    ],
+    "1": [
+      [
+        "ask",
+        "dobj"
+      ],
+      [
+        "drink",
+        "dobj"
+      ]
+    ]
+  },
+  "c9736a3b-b151-41b4-b772-48ed98d760b6": {
+    "0": [
+      [
+        "cut",
+        "nsubj"
+      ],
+      [
+        "throw",
+        "nsubj"
+      ],
+      [
+        "clean",
+        "nsubj"
+      ]
+    ],
+    "1": [
+      [
+        "throw",
+        "dobj"
+      ]
+    ]
+  },
+  "f87a1740-33d1-4a7e-af5b-bfd468ed5ba7": {
+    "0": [
+      [
+        "work",
+        "nsubj"
+      ],
+      [
+        "post",
+        "nsubj"
+      ],
+      [
+        "let",
+        "nsubj"
+      ]
+    ],
+    "1": [
+      [
+        "agree",
+        "nsubj"
+      ],
+      [
+        "motivate",
+        "dobj"
+      ]
+    ]
+  },
+  "e21dbfbd-459e-4e7f-b240-2a0b080e386d": {
+    "0": [
+      [
+        "love",
+        "nsubj"
+      ],
+      [
+        "decide",
+        "nsubj"
+      ],
+      [
+        "take",
+        "dative"
+      ]
+    ],
+    "1": [
+      [
+        "write",
+        "dobj"
+      ],
+      [
+        "take",
+        "nsubj"
+      ],
+      [
+        "read",
+        "dobj"
+      ]
+    ]
+  },
+  "851d3469-22a4-4753-a300-88a653489a50": {
+    "0": [
+      [
+        "wake",
+        "nsubj"
+      ],
+      [
+        "jump",
+        "nsubj"
+      ],
+      [
+        "go",
+        "nsubj"
+      ],
+      [
+        "follow",
+        "dobj"
+      ],
+      [
+        "want",
+        "nsubj"
+      ]
+    ],
+    "-1": [
+      [
+        "wake",
+        "dobj"
+      ],
+      [
+        "want",
+        "nsubj"
+      ],
+      [
+        "pull",
+        "nsubj"
+      ]
+    ]
+  },
+  "3f32c9d9-27ec-4613-a0f8-346becfc5a3b": {
+    "0": [
+      [
+        "feel",
+        "nsubj"
+      ],
+      [
+        "decide",
+        "nsubj"
+      ],
       [
         "eat",
         "nsubj"
@@ -144,9 +2378,303 @@
       [
         "feel",
         "nsubj"
+      ]
+    ]
+  },
+  "6653d185-b3b0-4efa-8206-fe36d13bb056": {
+    "0": [
+      [
+        "challenge",
+        "nsubj"
       ],
       [
-        "have",
+        "bet",
+        "nsubj"
+      ],
+      [
+        "owe",
+        "nsubj"
+      ]
+    ],
+    "-1": [
+      [
+        "challenge",
+        "dobj"
+      ],
+      [
+        "bet",
+        "dobj"
+      ],
+      [
+        "owe",
+        "dative"
+      ]
+    ]
+  },
+  "9e4865b7-3ffa-4565-898a-cba1fa9779a9": {
+    "1": [
+      [
+        "require",
+        "nsubj"
+      ]
+    ],
+    "0": [
+      [
+        "enjoy",
+        "nsubj"
+      ]
+    ]
+  },
+  "896c3aa9-ea64-4360-870e-ee8dfcce46c2": {
+    "0": [
+      [
+        "go",
+        "nsubj"
+      ],
+      [
+        "ask",
+        "nsubj"
+      ],
+      [
+        "ask",
+        "nsubj"
+      ],
+      [
+        "ask",
+        "dobj"
+      ]
+    ],
+    "1": [
+      [
+        "lead",
+        "nsubj"
+      ]
+    ]
+  },
+  "46888c5b-10c9-4682-bff9-285490aad45d": {
+    "-1": [
+      [
+        "work",
+        "nsubj"
+      ],
+      [
+        "think",
+        "nsubj"
+      ],
+      [
+        "enjoy",
+        "nsubj"
+      ],
+      [
+        "miss",
+        "nsubj"
+      ]
+    ],
+    "0": [
+      [
+        "make",
+        "nsubj"
+      ],
+      [
+        "come",
+        "nsubj"
+      ],
+      [
+        "miss",
+        "dobj"
+      ]
+    ]
+  },
+  "b07b4778-e569-460c-b6bc-db89e1090b40": {
+    "0": [
+      [
+        "feel",
+        "nsubj"
+      ],
+      [
+        "feel",
+        "nsubj"
+      ],
+      [
+        "finish",
+        "nsubj"
+      ]
+    ],
+    "2": [
+      [
+        "give",
+        "nsubj"
+      ]
+    ]
+  },
+  "f3405f93-d755-4f6e-84f9-ab53c0fb037e": {
+    "0": [
+      [
+        "go",
+        "nsubj"
+      ],
+      [
+        "drive",
+        "nsubj"
+      ],
+      [
+        "come",
+        "nsubj"
+      ]
+    ]
+  },
+  "30ade672-6f0e-4ee8-86ad-719bc718bcce": {
+    "0": [
+      [
+        "decide",
+        "nsubj"
+      ],
+      [
+        "want",
+        "nsubj"
+      ],
+      [
+        "go",
+        "nsubj"
+      ],
+      [
+        "find",
+        "nsubj"
+      ],
+      [
+        "buy",
+        "nsubj"
+      ]
+    ]
+  },
+  "312ab509-882a-43db-9276-d797a0226606": {
+    "0": [
+      [
+        "join",
+        "nsubj"
+      ],
+      [
+        "allow",
+        "nsubjpass"
+      ],
+      [
+        "blow",
+        "nsubj"
+      ],
+      [
+        "come",
+        "nsubj"
+      ],
+      [
+        "give",
+        "nsubjpass"
+      ]
+    ]
+  },
+  "4382d140-2cb9-4754-8402-2ba6d570793b": {
+    "1": [
+      [
+        "come",
+        "nsubj"
+      ]
+    ],
+    "0": [
+      [
+        "ask",
+        "nsubj"
+      ],
+      [
+        "go",
+        "nsubj"
+      ]
+    ],
+    "2": [
+      [
+        "ask",
+        "dobj"
+      ],
+      [
+        "wanna",
+        "nsubj"
+      ]
+    ]
+  },
+  "9ae7249a-aa9e-4641-b518-6c46494241fb": {
+    "0": [
+      [
+        "decide",
+        "nsubj"
+      ],
+      [
+        "walk",
+        "nsubj"
+      ],
+      [
+        "find",
+        "nsubj"
+      ],
+      [
+        "fix",
+        "nsubj"
+      ]
+    ]
+  },
+  "5202674a-230e-42d9-8c7e-9bd1a644b179": {
+    "0": [
+      [
+        "want",
+        "nsubj"
+      ],
+      [
+        "go",
+        "nsubj"
+      ],
+      [
+        "pick",
+        "nsubj"
+      ],
+      [
+        "bring",
+        "nsubj"
+      ]
+    ],
+    "1": [
+      [
+        "pick",
+        "dobj"
+      ],
+      [
+        "give",
+        "dative"
+      ]
+    ]
+  },
+  "cb97a095-ca4a-46ff-9b2a-c1be447e46ba": {
+    "0": [
+      [
+        "wake",
+        "nsubj"
+      ],
+      [
+        "take",
+        "nsubj"
+      ]
+    ],
+    "-1": [
+      [
+        "wake",
+        "dobj"
+      ],
+      [
+        "take",
+        "dative"
+      ],
+      [
+        "get",
+        "nsubj"
+      ],
+      [
+        "wake",
         "nsubj"
       ]
     ]
