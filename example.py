@@ -37,7 +37,7 @@ def story_answer(story):
 
 
 # Load training data and build the model
-# data, table = chains.process_corpus("train.csv", 100)
+# data, table = chains.process_corpus("train.csv")
 # print(table.pmi("move", "nsubj", "move", "nsubj"))
 
 count = 0
